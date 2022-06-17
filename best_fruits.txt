@@ -1,6 +1,5 @@
-banana 
-orange
-apples
-mangoes 
+red
+green
+blue
 
 
